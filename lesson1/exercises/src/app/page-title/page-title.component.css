@@ -6,7 +6,10 @@ h3 {
     text-align: center;
 } */
 
-h1 {
+.h1 {
     text-align: center;
     text-decoration: underline;
- }
+    color: rgb(255, 0, 153);
+    font-size: 3vw;
+
+}
